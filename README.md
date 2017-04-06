@@ -7,7 +7,7 @@ This repository is part of lab for the *NYU DevOps* class for Spring 2017, [CSCI
 
 The sample code is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM's Bluemix](https://bluemix.net/) environment which is based on Cloud Foundry. It also uses [Redis](https://redis.io) as a database for storing JSON objects.
 
-## Introduction
+## Introduction 
 
 One of my favorite quotes is:
 
